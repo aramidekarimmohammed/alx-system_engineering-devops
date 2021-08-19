@@ -7,8 +7,9 @@
 7-everybody a script that adds execution permission to owner.
 8-mes_bond a script that sets the permission to the file hello.
 9-john_doe a script that sets the mode of the file hello to.
-10-mirror_permissions a script that sets a mode of file hello the same as olleh
-11-directories_permissions a script that adds execute prmission to all sub-dir
-12-directory_permission creates a directory called my_dir with permissions 751
-13-change_group changes the group owner to school for the file hello
-100-change_owner_and_group changes owner to vinent and group owner to staff 
+10-mirror_permissions a script that sets a mode of file hello the same as olleh.
+11-directories_permissions a script that adds execute prmission to all sub-dir.
+12-directory_permission creates a directory called my_dir with permissions 751.
+13-change_group changes the group owner to school for the file hello.
+14-100-change_owner_and_group changes owner to vincent and group owner to staff.
+15-101-symbolic_link_permissions changes owner and group owner of _hello to vincent and staff.
