@@ -5,4 +5,5 @@
 5-execute a script that adds execute permission to the owner of the file hello,
 6-multiple_permissions a script that adds execute permission to the owner.
 7-everybody a script that adds execution permission to owner.
-8-James_bond a script that sets the permission to the file hello.
+8-mes_bond a script that sets the permission to the file hello.
+9-john_doe a script that sets the mode of the file hello to.
