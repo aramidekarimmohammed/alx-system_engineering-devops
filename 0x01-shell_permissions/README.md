@@ -7,3 +7,4 @@
 7-everybody a script that adds execution permission to owner.
 8-mes_bond a script that sets the permission to the file hello.
 9-john_doe a script that sets the mode of the file hello to.
+10-mirror_permissions a script that sets a mode of file hello the same as olleh’
