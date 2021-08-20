@@ -10,3 +10,4 @@
 9-firstdirdeletion deletes the dir my_first_directory in the /tmp dir
 10-back changes the working dir to the previous one
 11-lists lists scripts that are hidden even the ones beginning with .
+12-file_type a script that prints the type of the file named iamafile
