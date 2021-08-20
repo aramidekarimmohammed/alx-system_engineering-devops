@@ -11,3 +11,4 @@
 10-back changes the working dir to the previous one
 11-lists lists scripts that are hidden even the ones beginning with .
 12-file_type a script that prints the type of the file named iamafile
+13-symbolic_link Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
