@@ -6,3 +6,4 @@
 5-listfilesdigitonly display current directories content
 6-firstdirectory creates ad dir named my_first_directory in the /tmp/ dir
 7-movethatfile move the file betty from /tmp/ to /tmp/my_first_directory
+8-firstdelete delete the file betty
