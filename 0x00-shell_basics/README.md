@@ -4,3 +4,4 @@
 3-listfiles display current dir contents in a long format
 4-listmorefiles display current dircontents including hidden files
 5-listfilesdigitonly display current directories content
+6-firstdirectory creates ad dir named my_first_directory in the /tmp/ dir
